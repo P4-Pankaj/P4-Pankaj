@@ -11,4 +11,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on exciting stuff
 - 🏯 Volunteer at Vibhav Nith
 - 🕋 Member of GDSC Nith
-- 😄 Pronouns: Pj
+- 📫 How to reach me : Instagram :@_im._.pj
+- 😄 Pronouns: He/his
