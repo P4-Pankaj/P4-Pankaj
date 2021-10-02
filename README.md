@@ -9,5 +9,5 @@ ABOUT ME:
 - 🏯 Volunteer at Vibhav Nith
 - 🕋 Member of Google DEvelopers Club at Nit'H
 - 📫 How to reach me : [Instagram :@_im._.pj](Instagram:@_im._.pj) , [Linkedin :@Pankaj Sank.](Linkedin%20:@Pankaj%20Sank.)
-- 😄 Pronouns: He/his
-![Starting with git] (https://github-readme-stats.vercel.app/api?username=P4-Pankaj&theme=synthwave)
+
+-![Starting with git] (https://github-readme-stats.vercel.app/api?username=P4-Pankaj&theme=synthwave)
