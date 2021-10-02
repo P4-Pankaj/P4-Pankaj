@@ -10,4 +10,4 @@ ABOUT ME:
 - 🕋 Member of Google DEvelopers Club at Nit'H
 - 📫 How to reach me : [Instagram :@_im._.pj](Instagram:@_im._.pj) , [Linkedin :@Pankaj Sank.](Linkedin%20:@Pankaj%20Sank.)
 
--![Starting with git] (https://github-readme-stats.vercel.app/api?username=P4-Pankaj&theme=synthwave)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=P4-Pankaj&theme=radical" />
