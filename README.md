@@ -7,7 +7,7 @@ ABOUT ME:
 - 🌱 I’m currently learning web designing 👨🏻‍💻
 - 👯 I’m looking to collaborate on exciting stuff
 - 🏯 Volunteer at Vibhav Nith
-- 🕋 Member of Google DEvelopers Club at Nit'H
+- 🕋 Member of Google Developers Club at Nit'H
 - 📫 How to reach me : [Instagram :@_im._.pj](Instagram:@_im._.pj) , [Linkedin :@Pankaj Sank.](Linkedin%20:@Pankaj%20Sank.)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=P4-Pankaj&theme=radical" />
