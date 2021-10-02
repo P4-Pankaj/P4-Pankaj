@@ -1,15 +1,12 @@
 ### Heya , Pankaj on this side !👋
 
-<!--
-**P4-Pankaj/P4-Pankaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ABOUT ME:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently a Sophomore at NIT'H
-
-- 🌱 I’m currently learning Android development
+- 🔭 A Sophomore at NIT'H
+- 👨🏻‍🎓 Clock controls the world , we control the clock - E'CE engg. 👩🏻‍🌾
+- 🌱 I’m currently learning web designing 👨🏻‍💻
 - 👯 I’m looking to collaborate on exciting stuff
 - 🏯 Volunteer at Vibhav Nith
-- 🕋 Member of GDSC Nith
+- 🕋 Member of Google DEvelopers Club at Nit'H
 - 📫 How to reach me : Instagram :@_im._.pj
 - 😄 Pronouns: He/his
