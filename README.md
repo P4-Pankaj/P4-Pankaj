@@ -1,6 +1,6 @@
 <h1 align="center">Heya 👋, Pankaj on this side </h1>
 
-<h2 align="left">About me 👨🏻‍🎓:</h2>
+<h2 align="left">About me 🤔:</h2>
 
 - 🦸🏻‍♂️ A Sophomore at NIT'H
 - 👨🏻‍🎓 Clock controls the world , we control the clock - E'CE engg. 🙆🏻‍♂️
