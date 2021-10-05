@@ -1,7 +1,7 @@
-<h1 align="center"> Heya <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="55px" height="55px">, Pankaj on this side </h1>
+<h1 align="center"> Heya <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="55px" height="55px">, Pankaj on this side <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="40px" height="35px"> </h1>
 
 <h2 align="left">About me 🤔:</h2>
-<p> <img align="right" src="https://user-images.githubusercontent.com/91696209/135749528-6633cfea-26ee-44bd-822f-37d736d8c9a0.gif" width="500" height="320" /> </p>
+<p> <img align="right" src="https://storage.googleapis.com/duckly-blog/2021/03/gitduck-vs-code-extensions-animation-opt.gif" width="500" height="320" /> </p>
 
 - 👨🏻‍🎓 Sophomore at NIT'H
 - Clock controls the world , we control the clock - E'CE engg. 🙆🏻‍♂️
