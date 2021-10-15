@@ -6,8 +6,8 @@
 - 👨🏻‍🎓 Sophomore at NIT'H
 - Clock controls the world , we control the clock - E'CE engg. 🙆🏻‍♂️
 - 🌱 I’m currently learning web development 👨🏻‍💻
-- 🏯 Volunteer at Vibhav Nith
-- 🕋 Member of Google Developers Club at Nit'H 🌟
+- 🧰 Volunteer at Vibhav Nith
+- 💼 Member of Google Developers Club🌟
 <h3 align="left"> Join me on 😁:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pankaj-sank-3ab557207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pankaj-sank-3ab557207/" height="30" width="40" /></a>
